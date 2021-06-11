@@ -5,9 +5,9 @@ Ushbu kod @LiderKoder tomonidan tuzildi!
 @Phpdevelopersuz kanalimizga obuna boling va yangiliklardan xabardor boʻlib turing
 
 #Qoʼllanma
-Avval oʼz serveringizga pip orqalik pyrogram mi oʼrnating:
+Avval oʼz serveringizga pip orqalik pyrogram ni oʼrnating:
 pip install pyrogram
 Soʼng git orqalik kodni oling :
-gitclone https://github.com/LiderKoder/pyrogram-userbot/
+gitclone https://github.com/LiderKoder/pyrogram-userbot.git
 config.txt faylga my.telegram.org dan olingan api_id va api_hash ni kiriting.
 Tayyor. Endi ishga tushursangiz xam boʼladi.
