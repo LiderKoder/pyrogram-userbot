@@ -4,4 +4,8 @@ Pyrogram 1.2.9 orqalik tuzilgan userbot
 Ushbu kod @LiderKoder tomonidan tuzildi!
 @Phpdevelopersuz kanalimizga obuna boling va yangiliklardan xabardor boʻlib turing
 
-
+#Qoʼllanma
+Avval oʼz serveringizga pip orqalik pyrogram mi oʼrnating:
+pip install pyrogram
+Soʼng git orqalik kodni oling :
+gitclone https://git
